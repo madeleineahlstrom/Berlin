@@ -1,0 +1,42 @@
+.Header img {
+  width: 50%;
+  height: auto;
+  margin-left: 250pt;
+}
+
+
+h1 {
+
+  font-family: Arial;
+  font-size: 40pt;
+margin-bottom: 20pt;
+margin-left: 400pt;
+text-decoration: underline;
+}
+
+.Prestentation {
+  font-family: Arial;
+  font-size: 12pt;
+  margin-left: 100pt;
+
+}
+
+h3 {
+
+  font-family: Arial;
+  font-size: 30pt;
+  margin-bottom: 10pt;
+  margin-left: 400pt;
+  margin-top: 20pt;
+  text-decoration: underline;
+}
+
+.pascal1 {
+  width: 33%;
+  height:auto;
+}
+
+.spread img {
+  width: 33%;
+  height: auto;
+}
